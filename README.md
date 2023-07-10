@@ -17,3 +17,4 @@ Responsive Design: Ensuring the website is responsive and optimized for differen
 Throughout the development process, attention should be given to replicating the visual elements, styling, and layout of the original Amazon.com website. However, it is important to note that this project is for educational and personal use only and should not be used to create a commercial website or infringe upon any intellectual property rights.
 
 By creating a clone of Amazon.com using HTML and CSS, this project will provide an opportunity to gain hands-on experience in web development, HTML structure, CSS styling, responsive design principles, and user experience considerations. It will also offer insights into the complexities of building an e-commerce website and the challenges associated with designing and implementing a user-friendly online shopping platform.
+Created by Atharv shimpi
