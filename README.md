@@ -1,4 +1,8 @@
+
 Clone of Amazon.com using HTML and CSS
+<br/>Interface
+![image](https://github.com/atharvshimpi1/Atharv_Amazon_html_project/assets/139147982/deddf1ce-e757-4591-ae67-e2bf8f2edc9c)
+
 
 The goal of this project is to create a clone of the popular e-commerce website, Amazon.com, using HTML and CSS. This project will focus on replicating the visual appearance and layout of the Amazon website, allowing users to navigate through various product categories, view product listings, and simulate the online shopping experience.
 
